@@ -1,11 +1,9 @@
 # Daily Learning
 ## Morning Planning
-
+- [ ] Check out the [github blog](https://github.blog/) for topic ideas.
+- [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
+- [ ] Convert my first blog post into an actual webpage.
 ## Review
 ### Task List
 
-A task list extends the unordered list to use checkboxes.
-Add empty brackets `[ ]` for incomplete tasks and filled brackets `[x]` for complete tasks. Note: The empty required space for empty brackets.
 
-- [x] This task is complete
-- [ ] This task is not complete
